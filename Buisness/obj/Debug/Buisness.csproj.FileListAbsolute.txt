@@ -1,0 +1,18 @@
+C:\Users\THINK15-G4\source\repos\Buisness\obj\Debug\Buisness.csproj.AssemblyReference.cache
+C:\Users\THINK15-G4\source\repos\Buisness\obj\Debug\Buisness.csproj.CoreCompileInputs.cache
+C:\Users\THINK15-G4\source\repos\Buisness\bin\Debug\Buisness.dll
+C:\Users\THINK15-G4\source\repos\Buisness\bin\Debug\Buisness.pdb
+C:\Users\THINK15-G4\source\repos\Buisness\bin\Debug\DataAccess.dll
+C:\Users\THINK15-G4\source\repos\Buisness\bin\Debug\DataAccess.pdb
+C:\Users\THINK15-G4\source\repos\Buisness\obj\Debug\Buisness.csproj.Up2Date
+C:\Users\THINK15-G4\source\repos\Buisness\obj\Debug\Buisness.dll
+C:\Users\THINK15-G4\source\repos\Buisness\obj\Debug\Buisness.pdb
+C:\Users\THINK15-G4\source\repos\DVLD Project\Buisness\bin\Debug\Buisness.dll
+C:\Users\THINK15-G4\source\repos\DVLD Project\Buisness\bin\Debug\Buisness.pdb
+C:\Users\THINK15-G4\source\repos\DVLD Project\Buisness\bin\Debug\DataAccess.dll
+C:\Users\THINK15-G4\source\repos\DVLD Project\Buisness\bin\Debug\DataAccess.pdb
+C:\Users\THINK15-G4\source\repos\DVLD Project\Buisness\obj\Debug\Buisness.csproj.AssemblyReference.cache
+C:\Users\THINK15-G4\source\repos\DVLD Project\Buisness\obj\Debug\Buisness.csproj.CoreCompileInputs.cache
+C:\Users\THINK15-G4\source\repos\DVLD Project\Buisness\obj\Debug\Buisness.csproj.Up2Date
+C:\Users\THINK15-G4\source\repos\DVLD Project\Buisness\obj\Debug\Buisness.dll
+C:\Users\THINK15-G4\source\repos\DVLD Project\Buisness\obj\Debug\Buisness.pdb

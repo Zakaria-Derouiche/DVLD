@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Applications\Controls\ctrlApplicationInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Users\ctrlChangePassword.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Applications\ctrlDetainInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Drivers\ctrlDriverLicenseInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Licenses\ctrlInternationalDriverInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Drivers\ctrlInternationalLicenseInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Applications\Controls\ctrlLocalDrivingLicenseApplicationInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Applications\Controls\ctrlNewLicenseApplicationInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="People\ctrlPersonInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Applications\Controls\ctrlReleaseInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Applications\Controls\ctrlRepalcementApplicationInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Users\ctrlUserLoginInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Applications\frmActivateDesactivateLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tests\frmAddTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appointments\frmAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications\frmDetainedLicensesList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Licenses\frmDetainLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmDisplayUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="People\frmAddEditPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmAddEditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="People\frmDisplayPersonInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications\frmDrivingLicenseApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications\frmEditApplicationType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tests\frmEditTestType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications\frmAddInternationalLicenceApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Licenses\frmIssueDrivingLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications\frmLocalDrivingLicenseApplications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications\frmManageApplicationTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Drivers\frmManageDrivers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tests\frmManageTestTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="People\frmPeopleInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications\frmReleaseLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications\frmReNewLicenseApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications\frmReplaceDamagedOrLostLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tests\frmScheduleTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications\frmShowApplicationDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Drivers\frmShowDriverLicenseHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Licenses\frmShowInternationalLicenseInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Licenses\frmShowLicenseInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmShowUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications\frmInternationalLicenseApplications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
